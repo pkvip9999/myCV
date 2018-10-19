@@ -2,7 +2,11 @@
 layout: cv
 title: Phạm Hữu 
 ---
+
+
+
 # Phạm Hữu Thưởng
+
 IT programmer.
 
 <div id="webaddress">
@@ -31,8 +35,8 @@ __THPT Quỳnh Côi__
 `June 1661 - now`
 __Học viện Kỹ thuật Mật mã__
 
+## Sở thích
 
-##Sở thích
 - Đọc truyện ,xem phim ,nghe nhạc
 - Chơi thể thao
 
